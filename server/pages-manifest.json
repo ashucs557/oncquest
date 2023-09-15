@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/departments": "pages/departments.js",
+  "/offers": "pages/offers.js",
+  "/": "pages/index.js",
+  "/book-a-test": "pages/book-a-test.js",
+  "/default/404": "pages/default/404.html",
+  "/en/404": "pages/en/404.html",
+  "/bn/404": "pages/bn/404.html",
+  "/hn/404": "pages/hn/404.html",
+  "/kn/404": "pages/kn/404.html",
+  "/ta/404": "pages/ta/404.html",
+  "/default/500": "pages/default/500.html",
+  "/en/500": "pages/en/500.html",
+  "/bn/500": "pages/bn/500.html",
+  "/hn/500": "pages/hn/500.html",
+  "/kn/500": "pages/kn/500.html",
+  "/ta/500": "pages/ta/500.html"
+}
